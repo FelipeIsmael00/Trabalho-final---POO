@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Carlos Dias",
+      "email": "carlos@example.com"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Headset",
+      "preco": 320.0,
+      "categoria": "ELETRONICOS"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "cliente": {
+        "id": 1,
+        "nome": "Carlos Dias",
+        "email": "carlos@example.com"
+      },
+      "itens": [
+        {
+          "produto": {
+            "id": 1,
+            "nome": "Headset",
+            "preco": 320.0,
+            "categoria": "ELETRONICOS"
+          },
+          "quantidade": 1
+        }
+      ],
+      "status": "FINALIZADO"
+    }
+  ]
+}

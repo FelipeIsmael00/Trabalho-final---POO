@@ -1,0 +1,11 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "app/lib/gson-2.10.1.jar"
+        ]
+    }
+}
