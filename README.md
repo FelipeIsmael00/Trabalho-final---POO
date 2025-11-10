@@ -156,7 +156,7 @@ app/
 
 * **Felipe Ismael**
 * **Luiz Henrique Brites**
-* **Priscila Camargo|**
+* **Priscila Camargo**
 
 📍 Projeto desenvolvido para fins de aprendizado e prática dos conceitos de **Programação Orientada a Objetos** em Java.
 
