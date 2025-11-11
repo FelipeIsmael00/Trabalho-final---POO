@@ -11,7 +11,7 @@ Este repositório armazenou os fontes em `app/` na raiz — as instruções abai
 1. (Opcional) Vá para a pasta do projeto:
 
 ```powershell
-cd C:\Users\Usuario\Documents\pedido-app
+cd C:\Users\Usuario\Downloads\Trabalho-final---POO-main>
 ```
 
 2. Compile o projeto (padrão atual com fontes em `app/`):
